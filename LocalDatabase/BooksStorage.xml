@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--XML Document to store Library Books-->
+<Books>
+  <Book BookID="1">
+    <Name>abc</Name>
+    <NumberOfCopies>13</NumberOfCopies>
+    <Type>Book</Type>
+    <Author>def</Author>
+  </Book>
+</Books>

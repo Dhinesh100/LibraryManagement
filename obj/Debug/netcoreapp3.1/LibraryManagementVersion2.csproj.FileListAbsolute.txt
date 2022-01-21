@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\LibraryManagementVersion2\LibraryManagementVersion2\bin\Debug\netcoreapp3.1\LibraryManagementVersion2.exe
+C:\Users\Dell\source\repos\LibraryManagementVersion2\LibraryManagementVersion2\bin\Debug\netcoreapp3.1\LibraryManagementVersion2.deps.json
+C:\Users\Dell\source\repos\LibraryManagementVersion2\LibraryManagementVersion2\bin\Debug\netcoreapp3.1\LibraryManagementVersion2.runtimeconfig.json
+C:\Users\Dell\source\repos\LibraryManagementVersion2\LibraryManagementVersion2\bin\Debug\netcoreapp3.1\LibraryManagementVersion2.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\LibraryManagementVersion2\LibraryManagementVersion2\bin\Debug\netcoreapp3.1\LibraryManagementVersion2.dll
+C:\Users\Dell\source\repos\LibraryManagementVersion2\LibraryManagementVersion2\bin\Debug\netcoreapp3.1\LibraryManagementVersion2.pdb
+C:\Users\Dell\source\repos\LibraryManagementVersion2\LibraryManagementVersion2\obj\Debug\netcoreapp3.1\LibraryManagementVersion2.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\LibraryManagementVersion2\LibraryManagementVersion2\obj\Debug\netcoreapp3.1\LibraryManagementVersion2.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\LibraryManagementVersion2\LibraryManagementVersion2\obj\Debug\netcoreapp3.1\LibraryManagementVersion2.AssemblyInfo.cs
+C:\Users\Dell\source\repos\LibraryManagementVersion2\LibraryManagementVersion2\obj\Debug\netcoreapp3.1\LibraryManagementVersion2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LibraryManagementVersion2\LibraryManagementVersion2\obj\Debug\netcoreapp3.1\LibraryManagementVersion2.dll
+C:\Users\Dell\source\repos\LibraryManagementVersion2\LibraryManagementVersion2\obj\Debug\netcoreapp3.1\LibraryManagementVersion2.pdb
+C:\Users\Dell\source\repos\LibraryManagementVersion2\LibraryManagementVersion2\obj\Debug\netcoreapp3.1\LibraryManagementVersion2.genruntimeconfig.cache

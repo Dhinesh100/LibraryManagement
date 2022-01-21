@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--XML Document to store Library Returns-->
+<Returns>
+  <Return>
+    <NameOfItem>abc</NameOfItem>
+    <TypeOfItem>Book</TypeOfItem>
+    <NameOfMember>Dhinesh</NameOfMember>
+    <NumberOfItems>3</NumberOfItems>
+    <BorrowedDate>21-01-2022</BorrowedDate>
+    <ReturnedDate>20-02-2022</ReturnedDate>
+  </Return>
+</Returns>
