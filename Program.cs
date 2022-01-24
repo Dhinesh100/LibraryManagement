@@ -78,7 +78,7 @@ namespace LibraryManagementVersion2
                     from x in XDocument.Load(MemberPath).Root.Elements("Member")
                     select new MemberItem
                     {
-                        Name = (string)x.Element("Gender"),
+                        Name = (string)x.Element("Name"),
                         Age = (int)x.Element("Age"),
                         Category = (string)x.Element("Category"),
                         Gender = (string)x.Element("Gender")
